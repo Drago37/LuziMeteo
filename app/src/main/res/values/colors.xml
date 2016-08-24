@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000</color>
+    <color name="white">#FFF</color>
+    <color name="color_bouton_rond">#D26C22</color>
+    <color name="orange">#D26C22</color>
+    <color name="blue">#1e9ee8</color>
+    <color name="color_fond_main_activity">#FCF4ED</color>
+
+</resources>
